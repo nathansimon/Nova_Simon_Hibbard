@@ -14,6 +14,6 @@ Nova_Simon_Hibbard2.ipynb     =         Topic_Model_LDA.ipynb
 
 
 
-Nova_Simon_Hibbard1.xlsx      =         textLDA.xlsx
+Nova_Simon_Hibbard2.xlsx      =         textLDA.xlsx
 
 
